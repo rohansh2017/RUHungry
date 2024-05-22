@@ -1,0 +1,1 @@
+This assignment is designed to help you understand and implement various data structures and algorithms in the context of a restaurant simulation. You will be working with the RUHungry class, which represents a fictitious restaurant. Your tasks will involve managing the menu, stock, transactions, and seating guests.
