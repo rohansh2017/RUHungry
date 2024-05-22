@@ -1,0 +1,36 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Menu",
+            "request": "launch",
+            "mainClass": "restaurant.Menu",
+            "projectName": "RUHungry_6a6d290f",
+            "args": "menu.in menu.out stock.in order1.in"
+        },
+        {
+            "type": "java",
+            "name": "StdIn",
+            "request": "launch",
+            "mainClass": "restaurant.StdIn",
+            "projectName": "RUHungry_6a6d290f"
+        },
+        {
+            "type": "java",
+            "name": "StdOut",
+            "request": "launch",
+            "mainClass": "restaurant.StdOut",
+            "projectName": "RUHungry_6a6d290f"
+        }
+    ]
+}
